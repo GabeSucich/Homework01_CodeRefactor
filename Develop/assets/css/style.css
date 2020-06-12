@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Make the background of the webpage white. */
 body {
     background-color: #d9dcd6;
 }
 
+/* Format, font, and color of the header. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
-h1 {
+/* Positions the "Horiseon" header to be inline with the other text in the header. */
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changes the color of the "seo" portion of "Horiseon" to make it stand out. */
 .seo {
     color: #d9dcd6;
 }
 
+/* Positions the three main content tabs to the right of the header, and inline with "Horiseon". */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +37,27 @@ h1 {
     font-size: 20px;
 }
 
-ul {
+/* Together below, formatting for the three content tabs.  */
+.header div ul {
     list-style-type: none;
 }
-
-li {
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Formatting the color of the text in the above tabs. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets the size of text for the <p> tag text on the page. */
 p {
     font-size: 16px;
 }
 
+/* Formatting the main image at the top of the webpage. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +67,26 @@ p {
     background-position: center;
 }
 
+/* Formatting the title headers for the three main content sections. */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Formatting for the main block containing all three content sections. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Formatting for each of the images in the main content block. */
 .content img {
     max-height: 200px;
 }
 
-#search-engine-optimization {
+/* Formatting for each of the sections in the main block. */
+.main-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -83,24 +95,7 @@ p {
     color: #ffffff;
 }
 
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* Left-float and right-float formatting to position the main section images. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -111,6 +106,7 @@ p {
     margin-left: 25px;
 }
 
+/* Formatting for the entire aside block to the right of the screen. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +118,7 @@ p {
     background-color: #2589bd;
 }
 
+/* All three below, formatting for each of the subtopic sections, headers, and images in the aside block. */
 .benefit-subsection {
     margin-bottom: 32px;
     color: #ffffff;
@@ -138,6 +135,7 @@ p {
     max-width: 150px;
 }
 
+/* Both together below, formatting for both footers */
 .footer {
     padding: 30px;
     clear: both;
