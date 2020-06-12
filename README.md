@@ -61,6 +61,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Thanks to Trilogy Education Services, a 2U, Inc for providing the starter code for this project.
+* Big shout out to Manuel for the detailed walkthroughs of using mark down.
