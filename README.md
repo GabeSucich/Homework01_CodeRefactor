@@ -5,7 +5,9 @@ An HTML file and a CSS file were provided, which together yielded a website. Alt
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To obtain a copy of this project for testing and futher development:
+
+1. Go to 
 
 ### Prerequisites
 
@@ -42,7 +44,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://gabesucich.github.io/Homework01_CodeRefactor/)
 
 
 ## Authors
