@@ -47,11 +47,11 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **YOUR NAME** 
+* Gabriel Sucich
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Portfolio coming soon!](#)
+- [Link to Github](https://github.com/GabeSucich)
+- [Link to LinkedIn](www.linkedin.com/in/gabriel-sucich-6a28a71a8)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
