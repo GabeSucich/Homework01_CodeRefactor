@@ -5,23 +5,23 @@ An HTML file and a CSS file were provided, which together yielded a website. Alt
 
 ## Getting Started
 
-To obtain a copy of this project for testing and futher development:
-
-1. Clone Gith
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+1. Install git by typing "git --version" in your terminal. If you are not sure if you have git or not, typing this will automatically prompt installation if you do not.
 
-```
-Give examples
-```
+![Image](markdownassets/git.png)
 
 ### Installing
 
-1. Install a text editor of your choice, and the associated extension which allows one to open an html file  in an internet browser for preview.
+To get access to this project for development and testing, go through the following steps:
 
-2. 
+1. Clone the project repository by navigating to a proper directory in terminal and typing `git clone https://github.com/GabeSucich/Homework01_CodeRefactor.git`:
+
+![image](markdownassets/gitclone.png)
+
+2. Edit the HTML and CSS files, push to github, and see the live deployed website at the URL below.
 
 
 ## Built With
